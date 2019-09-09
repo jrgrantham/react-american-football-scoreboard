@@ -1,5 +1,14 @@
 import React from "react";
 import "./App.css";
+import { doWhileStatement } from "@babel/types";
+
+// const [downs, setDowns] = useState(0);
+// const resetDowns = () => {
+//   setDowns(0);
+// }
+// const increaseDowns = () => {
+//   setDowns(downs + 1);
+// }
 
 const BottomRow = () => {
   return (
